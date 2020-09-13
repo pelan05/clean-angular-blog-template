@@ -1,8 +1,8 @@
-import { async, ComponentFixture, TestBed } from "@angular/core/testing";
+import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { PreviewPostComponent } from "./preview-post.component";
+import { PreviewPostComponent } from './preview-post.component';
 
-describe("PreviewPostComponent", () => {
+describe('PreviewPostComponent', () => {
   let component: PreviewPostComponent;
   let fixture: ComponentFixture<PreviewPostComponent>;
 
@@ -18,7 +18,7 @@ describe("PreviewPostComponent", () => {
     fixture.detectChanges();
   });
 
-  it("should create", () => {
+  it('should create', () => {
     expect(component).toBeTruthy();
   });
 });

@@ -1,13 +1,13 @@
 export class BlogPost {
     status: string[];
-    _id: string;
+    id: string;
     content: string;
     title: string;
     author: string;
-    Created_date: string;
+    createdDate: string;
 
-    //assign vals from json to properties
-    constructor(values: Object = {}) { 
+    // assign vals from json to properties
+    constructor(values: object = {}) {
         Object.assign(this, values);
     }
 }
