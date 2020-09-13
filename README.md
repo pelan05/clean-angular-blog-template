@@ -9,9 +9,9 @@ Feel free to fork or contact me if there's something you think I should change.
 
 ## Technologies:
 
-Angular 10 front-end
-NodeJs back-end
-Mongoose database
+1. Angular 10 front-end
+2. NodeJs back-end
+3. Mongoose database  
 (this MEANs you have to have npm, node, angular and mongoDB installed)
 
 
