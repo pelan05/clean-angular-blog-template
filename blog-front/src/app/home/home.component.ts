@@ -19,6 +19,7 @@ export class HomeComponent implements OnInit {
 
   private getPosts(): void {
     this.postService.GetPosts().subscribe(posts => {
+      console.log(posts);
       this.posts = posts;
       this.loading = false;
     });

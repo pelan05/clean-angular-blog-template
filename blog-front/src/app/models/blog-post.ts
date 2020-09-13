@@ -1,10 +1,12 @@
 export class BlogPost {
     status: string[];
-    id: string;
+  // tslint:disable-next-line:variable-name
+    _id: string;
     content: string;
     title: string;
     author: string;
-    createdDate: string;
+  // tslint:disable-next-line:variable-name
+    Created_date: string;
 
     // assign vals from json to properties
     constructor(values: object = {}) {
