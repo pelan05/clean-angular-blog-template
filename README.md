@@ -4,7 +4,8 @@ An angular blog template forked off [brookton's template](https://github.com/bro
 
 ## What is different?
 
-I forked this repo to update and try to improve some functionalities, to use as a personal template. Feel free to fork or contact me if there's something you think I should change.
+I forked this repo to update it and to improve some functionalities, so I can use it as a personal template. 
+Feel free to fork or contact me if there's something you think I should change.
 
 
 ## Getting Started:
